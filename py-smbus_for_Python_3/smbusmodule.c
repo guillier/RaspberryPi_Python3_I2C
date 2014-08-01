@@ -2,7 +2,7 @@
  * smbusmodule.c - Python bindings for Linux SMBus access through i2c-dev
  * Copyright (C) 2005-2007 Mark M. Hoffman <mhoffman@lightlink.com>
  *
- * Ported to Python 3 by (C) 2012 Bernhard Renz
+ * Ported to Python 3 (C) 2012 by Bernhard Renz
  * see http://www.spinics.net/lists/linux-i2c/msg08427.html
  *
  * This program is free software; you can redistribute it and/or modify
